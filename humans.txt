@@ -1,0 +1,20 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	rahul shinde, this is prototype one.
+	always interested in collaboration/discourse
+	hit me up: rshinde@mica.edu
+
+
+# THANKS
+
+	my family
+	brokette horne
+	ben kutil
+
+# TECHNOLOGY COLOPHON
+
+	HTML5, CSS3
+	Normalize.css, jQuery, Modernizr, Skeleton, FlexSlider
